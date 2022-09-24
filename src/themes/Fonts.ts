@@ -1,5 +1,4 @@
 export default {
-  Inter: 'Inter',
-  PoppinsMedium: 'Poppins-Medium',
-  PoppinsRegion: 'Poppins-Region',
+  HelveticaBold: 'Helvetica-Bold',
+  HelveticaLight: 'Helvetica-Light',
 };
