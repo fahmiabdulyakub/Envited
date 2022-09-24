@@ -13,7 +13,7 @@ export const Routes = () => {
     <NavigationContainer>
       <SafeAreaView style={styles.SafeAreaView}>
         <StatusBar
-          backgroundColor={Colors.light_grey}
+          backgroundColor={Colors.secondary3}
           barStyle="dark-content"
         />
         <Stack.Navigator initialRouteName="Home">
